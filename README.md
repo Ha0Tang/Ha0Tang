@@ -1,8 +1,8 @@
 ## Hao Tang
-_**[[Homepage](http://disi.unitn.it/~hao.tang/)] [[Google Scholar](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en)] [[Twitter]](https://twitter.com/HaoTang_ai)]**_
+_**[[Homepage](http://disi.unitn.it/~hao.tang/)] [[Google Scholar](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en)] [[Twitter]](https://twitter.com/HaoTang_ai)**_
 
-_**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, Switzerland.**_
-
+<!-- _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, Switzerland.**_ -->
+_**I am currently a PhD at MHUG, University of Trento, Italy.**_
 <!--
 **cszn/cszn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
