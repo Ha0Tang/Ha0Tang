@@ -1,6 +1,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Ha0Tang&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fodark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ha0Tang)
 
 ## Hao Tang
 _**[[Homepage](http://disi.unitn.it/~hao.tang/)] [[Google Scholar](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en)] [[Twitter]](https://twitter.com/HaoTang_ai)**_
