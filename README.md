@@ -33,8 +33,14 @@ _**We released both codes of [XingVTON](https://github.com/Ha0Tang/XingVTON) and
 - **[AttentionGAN](https://github.com/Ha0Tang/AttentionGAN)**
 - **[AsymmetricGAN](https://github.com/Ha0Tang/AsymmetricGAN)**
 
+### Text-to-Image Synthesis
+- **[DF-GAN](https://github.com/tobran/DF-GAN)**
+
 ### Deep Dictionary Learning
 - **[DDLCN](https://github.com/Ha0Tang/DDLCN)**
 
 ### Hand Gesture Recognition
 - **[HandGestureRecognition](https://github.com/Ha0Tang/HandGestureRecognition)**
+
+### Monocular Depth Prediction
+- **[TransDepth](https://github.com/ygjwd12345/TransDepth)**
