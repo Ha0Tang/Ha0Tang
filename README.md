@@ -9,7 +9,7 @@ _**[[Homepage](http://disi.unitn.it/~hao.tang/)] [[Google Scholar](https://schol
 _**I am currently a PhD at MHUG, University of Trento, Italy.**_
 
 ## ⚡  **News**
-_**We released both codes of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [CIT](https://github.com/Amazingren/CIT) for virtual try-on, [TransDA](https://github.com/ygjwd12345/TransDA) for source-free domain adaptation!**_
+_**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [CIT](https://github.com/Amazingren/CIT) for virtual try-on, the code [TransDA](https://github.com/ygjwd12345/TransDA) for source-free domain adaptation!**_
 
 ## 🌱 **My Repositories**
 ### Person Image Generation 
