@@ -9,41 +9,41 @@ _**[[Homepage](http://disi.unitn.it/~hao.tang/)] [[Google Scholar](https://schol
 _**I am currently a PhD at MHUG, University of Trento, Italy.**_
 
 ## ⚡  **News**
-_**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [CIT](https://github.com/Amazingren/CIT) for virtual try-on, the code [TransDA](https://github.com/ygjwd12345/TransDA) for source-free domain adaptation!**_
+_**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [CIT](https://github.com/Amazingren/CIT) for virtual try-on, the code of [TransDA](https://github.com/ygjwd12345/TransDA) for source-free domain adaptation!**_
 
 ## 🌱 **My Repositories**
-### Person Image Generation 
+#### Person Image Generation 
 - **[XingGAN](https://github.com/Ha0Tang/XingGAN)**
 - **[BiGraphGAN](https://github.com/Ha0Tang/BiGraphGAN)**
 - **[C2GAN](https://github.com/Ha0Tang/C2GAN)**
 - **[GestureGAN](https://github.com/Ha0Tang/GestureGAN)**
 
-### Virtual Try-On
+#### Virtual Try-On
 - **[XingVTON](https://github.com/Ha0Tang/XingVTON)**
 - **[CIT](https://github.com/Amazingren/CIT)**
 
-### Scene Image Generation
+#### Scene Image Generation
 - **[LGGAN](https://github.com/Ha0Tang/LGGAN)**
 - **[DAGAN](https://github.com/Ha0Tang/DAGAN)**
 - **[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN)**
 - **[EdgeGAN](https://github.com/Ha0Tang/EdgeGAN)**
 - **[PanoGAN](https://github.com/sswuai/PanoGAN)**
 
-### Unsupervised Image Translation
+#### Unsupervised Image Translation
 - **[AttentionGAN](https://github.com/Ha0Tang/AttentionGAN)**
 - **[AsymmetricGAN](https://github.com/Ha0Tang/AsymmetricGAN)**
 
-### Text-to-Image Synthesis
+#### Text-to-Image Synthesis
 - **[DF-GAN](https://github.com/tobran/DF-GAN)**
 
-### Deep Dictionary Learning
+#### Deep Dictionary Learning
 - **[DDLCN](https://github.com/Ha0Tang/DDLCN)**
 
-### Hand Gesture Recognition
+#### Hand Gesture Recognition
 - **[HandGestureRecognition](https://github.com/Ha0Tang/HandGestureRecognition)**
 
-### Monocular Depth Prediction
+#### Monocular Depth Prediction
 - **[TransDepth](https://github.com/ygjwd12345/TransDepth)**
 
-### Source-Free Domain Adaptation
+#### Source-Free Domain Adaptation
 - **[TransDA](https://github.com/ygjwd12345/TransDA)**
