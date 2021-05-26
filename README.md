@@ -13,19 +13,19 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 
 ## 🌱 **My Repositories**
 #### Person Image Generation 
-- **[XingGAN](https://github.com/Ha0Tang/XingGAN)**
-- **[BiGraphGAN](https://github.com/Ha0Tang/BiGraphGAN)**
-- **[C2GAN](https://github.com/Ha0Tang/C2GAN)**
-- **[GestureGAN](https://github.com/Ha0Tang/GestureGAN)**
+- **[XingGAN](https://github.com/Ha0Tang/XingGAN)** (ECCV 2020)
+- **[BiGraphGAN](https://github.com/Ha0Tang/BiGraphGAN)** (BMVC 2020 Oral)
+- **[C2GAN](https://github.com/Ha0Tang/C2GAN)** (ACM MM 2019 Oral)
+- **[GestureGAN](https://github.com/Ha0Tang/GestureGAN)** (ACM MM 2018 Best Paper Candidate)
 
 #### Virtual Try-On
 - **[XingVTON](https://github.com/Ha0Tang/XingVTON)**
 - **[CIT](https://github.com/Amazingren/CIT)**
 
 #### Scene Image Generation
-- **[LGGAN](https://github.com/Ha0Tang/LGGAN)**
-- **[DAGAN](https://github.com/Ha0Tang/DAGAN)**
-- **[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN)**
+- **[LGGAN](https://github.com/Ha0Tang/LGGAN)** (CVPR 2020)
+- **[DAGAN](https://github.com/Ha0Tang/DAGAN)** (ACM MM 2020)
+- **[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN)** (CVPR 2019 Oral)
 - **[EdgeGAN](https://github.com/Ha0Tang/EdgeGAN)**
 - **[PanoGAN](https://github.com/sswuai/PanoGAN)**
 
@@ -37,7 +37,7 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 - **[DF-GAN](https://github.com/tobran/DF-GAN)**
 
 #### Deep Dictionary Learning
-- **[DDLCN](https://github.com/Ha0Tang/DDLCN)**
+- **[DDLCN](https://github.com/Ha0Tang/DDLCN)** (WACV 2019 Oral)
 
 #### Hand Gesture Recognition
 - **[HandGestureRecognition](https://github.com/Ha0Tang/HandGestureRecognition)**
