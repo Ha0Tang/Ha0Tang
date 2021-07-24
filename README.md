@@ -43,7 +43,7 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 - **[HandGestureRecognition](https://github.com/Ha0Tang/HandGestureRecognition)**
 
 #### Monocular Depth Prediction
-- **[TransDepth](https://github.com/ygjwd12345/TransDepth)**
+- **[TransDepth](https://github.com/ygjwd12345/TransDepth)** (ICCV 2021)
 
 #### Source-Free Domain Adaptation
 - **[TransDA](https://github.com/ygjwd12345/TransDA)**
