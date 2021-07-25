@@ -18,6 +18,12 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 - **[C2GAN](https://github.com/Ha0Tang/C2GAN)** (ACM MM 2019 Oral)
 - **[GestureGAN](https://github.com/Ha0Tang/GestureGAN)** (ACM MM 2018 Best Paper Candidate)
 
+### 3D Objection Generation
+- **[IEPGAN](https://github.com/mikecheninoulu/Unsupervised_IEPGAN)** (ICCV 2021)
+
+#### Monocular Depth Prediction Using Transformer
+- **[TransDepth](https://github.com/ygjwd12345/TransDepth)** (ICCV 2021)
+
 #### Virtual Try-On
 - **[XingVTON](https://github.com/Ha0Tang/XingVTON)**
 - **[CIT](https://github.com/Amazingren/CIT)**
@@ -41,9 +47,6 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 
 #### Hand Gesture Recognition
 - **[HandGestureRecognition](https://github.com/Ha0Tang/HandGestureRecognition)**
-
-#### Monocular Depth Prediction
-- **[TransDepth](https://github.com/ygjwd12345/TransDepth)** (ICCV 2021)
 
 #### Source-Free Domain Adaptation
 - **[TransDA](https://github.com/ygjwd12345/TransDA)**
