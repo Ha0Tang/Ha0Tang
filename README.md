@@ -15,8 +15,8 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 ### Person Image Generation 
 - **[XingGAN](https://github.com/Ha0Tang/XingGAN)** (ECCV 2020)
 - **[BiGraphGAN](https://github.com/Ha0Tang/BiGraphGAN)** (BMVC 2020 Oral)
-- **[C2GAN](https://github.com/Ha0Tang/C2GAN)** (ACM MM 2019 Oral)
-- **[GestureGAN](https://github.com/Ha0Tang/GestureGAN)** (ACM MM 2018 Best Paper Candidate)
+- **[C2GAN](https://github.com/Ha0Tang/C2GAN)** (TMM 2021 & ACM MM 2019 Oral)
+- **[GestureGAN](https://github.com/Ha0Tang/GestureGAN)** (TIP 2020 & ACM MM 2018 Best Paper Candidate)
 
 ### Scene Image Generation
 - **[LGGAN](https://github.com/Ha0Tang/LGGAN)** (CVPR 2020)
@@ -35,15 +35,15 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 - **[AttentionGAN](https://github.com/Ha0Tang/AttentionGAN)** （TNNLS 2021 & IJCNN 2019）
 - **[AsymmetricGAN](https://github.com/Ha0Tang/AsymmetricGAN)**
 
+### Deep Dictionary Learning
+- **[DDLCN](https://github.com/Ha0Tang/DDLCN)** (TNNLS 2020 & WACV 2019 Oral)
+
 ### Virtual Try-On
 - **[XingVTON](https://github.com/Ha0Tang/XingVTON)**
 - **[CIT](https://github.com/Amazingren/CIT)**
 
 ### Text-to-Image Synthesis
 - **[DF-GAN](https://github.com/tobran/DF-GAN)**
-
-### Deep Dictionary Learning
-- **[DDLCN](https://github.com/Ha0Tang/DDLCN)** (WACV 2019 Oral)
 
 ### Hand Gesture Recognition
 - **[HandGestureRecognition](https://github.com/Ha0Tang/HandGestureRecognition)**
