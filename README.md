@@ -31,13 +31,13 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 ### Monocular Depth Prediction Using Transformer
 - **[TransDepth](https://github.com/ygjwd12345/TransDepth)** (ICCV 2021)
 
+### Unsupervised Image Translation
+- **[AttentionGAN](https://github.com/Ha0Tang/AttentionGAN)** （TNNLS 2021 & IJCNN 2019）
+- **[AsymmetricGAN](https://github.com/Ha0Tang/AsymmetricGAN)**
+
 ### Virtual Try-On
 - **[XingVTON](https://github.com/Ha0Tang/XingVTON)**
 - **[CIT](https://github.com/Amazingren/CIT)**
-
-### Unsupervised Image Translation
-- **[AttentionGAN](https://github.com/Ha0Tang/AttentionGAN)**
-- **[AsymmetricGAN](https://github.com/Ha0Tang/AsymmetricGAN)**
 
 ### Text-to-Image Synthesis
 - **[DF-GAN](https://github.com/tobran/DF-GAN)**
