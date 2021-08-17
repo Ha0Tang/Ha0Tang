@@ -28,8 +28,9 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 ### 3D Objection Generation
 - **[IEPGAN](https://github.com/mikecheninoulu/Unsupervised_IEPGAN)** (ICCV 2021)
 
-### Monocular Depth Prediction Using Transformer
+### Monocular Depth Prediction
 - **[TransDepth](https://github.com/ygjwd12345/TransDepth)** (ICCV 2021)
+- **[StructuredAttention](https://github.com/danxuhk/StructuredAttentionDepthEstimation)** (CVPR 2018 Spotlight)
 
 ### Unsupervised Image Translation
 - **[AttentionGAN](https://github.com/Ha0Tang/AttentionGAN)** (IJCNN 2019 Oral）
