@@ -47,7 +47,7 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 - **[DF-GAN](https://github.com/tobran/DF-GAN)**
 
 ### Hand Gesture Recognition
-- **[HandGestureRecognition](https://github.com/Ha0Tang/HandGestureRecognition)**
+- **[HandGestureRecognition](https://github.com/Ha0Tang/HandGestureRecognition)** (Neurocomputing 2019)
 
 ### Source-Free Domain Adaptation
 - **[TransDA](https://github.com/ygjwd12345/TransDA)**
