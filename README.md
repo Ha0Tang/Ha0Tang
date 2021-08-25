@@ -35,7 +35,7 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 ### Unsupervised Image Translation
 - **[AttentionGAN](https://github.com/Ha0Tang/AttentionGAN)** (IJCNN 2019 Oral）
 - **[GazeAnimation](https://github.com/zhangqianhui/GazeAnimation)** (ACM MM 2020)
-- **[AsymmetricGAN](https://github.com/Ha0Tang/AsymmetricGAN)**
+- **[AsymmetricGAN](https://github.com/Ha0Tang/AsymmetricGAN)** (ACCV 2018 Oral)
 
 ### Deep Dictionary Learning
 - **[DDLCN](https://github.com/Ha0Tang/DDLCN)** (WACV 2019 Oral)
