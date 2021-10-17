@@ -23,6 +23,7 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 - **[DAGAN](https://github.com/Ha0Tang/DAGAN)** (ACM MM 2020)
 - **[DPGAN](https://github.com/Ha0Tang/DPGAN)** (TIP 2021)
 - **[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN)** (CVPR 2019 Oral)
+- **[CrossMLP](https://github.com/Amazingren/CrossMLP)** (BMVC 2021 Oral)
 - **[EdgeGAN](https://github.com/Ha0Tang/EdgeGAN)**
 - **[PanoGAN](https://github.com/sswuai/PanoGAN)**
 
