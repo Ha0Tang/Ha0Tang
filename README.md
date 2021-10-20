@@ -29,6 +29,7 @@ _**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [
 
 ### 3D Objection Generation
 - **[IEPGAN](https://github.com/mikecheninoulu/Unsupervised_IEPGAN)** (ICCV 2021)
+- **[AniFormer](https://github.com/mikecheninoulu/AniFormer)** (BMVC 2021)
 
 ### Monocular Depth Prediction
 - **[TransDepth](https://github.com/ygjwd12345/TransDepth)** (ICCV 2021)
