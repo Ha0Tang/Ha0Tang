@@ -9,9 +9,12 @@ _**[[Homepage](http://disi.unitn.it/~hao.tang/)] [[Google Scholar](https://schol
 _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, Switzerland.**_
 
 ## ⚡  **News**
-_**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [CIT](https://github.com/Amazingren/CIT) for virtual try-on, the code of [TransDA](https://github.com/ygjwd12345/TransDA) for source-free domain adaptation using Transformer, the code of [IEPGAN](https://github.com/mikecheninoulu/Unsupervised_IEPGAN) for 3D pose transfer, the code of [TransDepth](https://github.com/ygjwd12345/TransDepth) for monocular depth prediction using Transformer, the code [GLANet](https://github.com/ygjwd12345/GLANet) for unpaired image-to-image translation**
+**We released the code of [XingVTON](https://github.com/Ha0Tang/XingVTON) and [CIT](https://github.com/Amazingren/CIT) for virtual try-on, the code of [TransDA](https://github.com/ygjwd12345/TransDA) for source-free domain adaptation using Transformer, the code of [IEPGAN](https://github.com/mikecheninoulu/Unsupervised_IEPGAN) for 3D pose transfer, the code of [TransDepth](https://github.com/ygjwd12345/TransDepth) for monocular depth prediction using Transformer, the code [GLANet](https://github.com/ygjwd12345/GLANet) for unpaired image-to-image translation, the code [MHFormer](https://github.com/Vegetebird/MHFormer) for 3D human pose estimation.**
 
 ## 🌱 **My Repositories**
+### 3D Human Pose Estimation
+- **[MHFormer](https://github.com/Vegetebird/MHFormer)**
+
 ### Person Image Generation 
 - **[XingGAN](https://github.com/Ha0Tang/XingGAN)** (ECCV 2020)
 - **[BiGraphGAN](https://github.com/Ha0Tang/BiGraphGAN)** (BMVC 2020 Oral)
