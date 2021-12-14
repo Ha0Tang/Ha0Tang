@@ -31,6 +31,7 @@ _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, 
 - **[PanoGAN](https://github.com/sswuai/PanoGAN)**
 
 ### 3D Objection Generation
+- **[CGT](https://github.com/mikecheninoulu/CGT)** (AAAI 2022)
 - **[IEPGAN](https://github.com/mikecheninoulu/Unsupervised_IEPGAN)** (ICCV 2021)
 - **[AniFormer](https://github.com/mikecheninoulu/AniFormer)** (BMVC 2021)
 
