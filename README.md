@@ -15,6 +15,9 @@ _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, 
 ### 3D Human Pose Estimation
 - **[MHFormer](https://github.com/Vegetebird/MHFormer)**
 
+### Face Anonymisation
+- **[AnonyGAN](https://github.com/Fodark/anonygan)** (ICIAP 2021)
+
 ### Person Image Generation 
 - **[XingGAN](https://github.com/Ha0Tang/XingGAN)** (ECCV 2020)
 - **[BiGraphGAN](https://github.com/Ha0Tang/BiGraphGAN)** (BMVC 2020 Oral)
