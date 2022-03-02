@@ -13,7 +13,10 @@ _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, 
 
 ## 🌱 **My Repositories**
 ### 3D Human Pose Estimation
-- **[MHFormer](https://github.com/Vegetebird/MHFormer)**
+- **[MHFormer](https://github.com/Vegetebird/MHFormer)** (CVPR 2022)
+
+### Text-to-Image Synthesis
+- **[DF-GAN](https://github.com/tobran/DF-GAN)** (CVPR 2022)
 
 ### Face Anonymisation
 - **[AnonyGAN](https://github.com/Fodark/anonygan)** (ICIAP 2021)
@@ -54,9 +57,6 @@ _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, 
 ### Virtual Try-On
 - **[XingVTON](https://github.com/Ha0Tang/XingVTON)**
 - **[CIT](https://github.com/Amazingren/CIT)**
-
-### Text-to-Image Synthesis
-- **[DF-GAN](https://github.com/tobran/DF-GAN)**
 
 ### Hand Gesture Recognition
 - **[HandGestureRecognition](https://github.com/Ha0Tang/HandGestureRecognition)** (Neurocomputing 2019)
