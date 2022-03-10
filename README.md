@@ -18,6 +18,15 @@ _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, 
 ### Text-to-Image Synthesis
 - **[DF-GAN](https://github.com/tobran/DF-GAN)** (CVPR 2022)
 
+### 3D Objection Generation
+- **[CGT](https://github.com/mikecheninoulu/CGT)** (AAAI 2022)
+- **[IEPGAN](https://github.com/mikecheninoulu/Unsupervised_IEPGAN)** (ICCV 2021)
+- **[AniFormer](https://github.com/mikecheninoulu/AniFormer)** (BMVC 2021)
+
+### Monocular Depth Prediction
+- **[TransDepth](https://github.com/ygjwd12345/TransDepth)** (ICCV 2021)
+- **[StructuredAttention](https://github.com/danxuhk/StructuredAttentionDepthEstimation)** (CVPR 2018 Spotlight)
+
 ### Face Anonymisation
 - **[AnonyGAN](https://github.com/Fodark/anonygan)** (ICIAP 2021)
 
@@ -35,15 +44,6 @@ _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, 
 - **[CrossMLP](https://github.com/Amazingren/CrossMLP)** (BMVC 2021 Oral)
 - **[EdgeGAN](https://github.com/Ha0Tang/EdgeGAN)**
 - **[PanoGAN](https://github.com/sswuai/PanoGAN)**
-
-### 3D Objection Generation
-- **[CGT](https://github.com/mikecheninoulu/CGT)** (AAAI 2022)
-- **[IEPGAN](https://github.com/mikecheninoulu/Unsupervised_IEPGAN)** (ICCV 2021)
-- **[AniFormer](https://github.com/mikecheninoulu/AniFormer)** (BMVC 2021)
-
-### Monocular Depth Prediction
-- **[TransDepth](https://github.com/ygjwd12345/TransDepth)** (ICCV 2021)
-- **[StructuredAttention](https://github.com/danxuhk/StructuredAttentionDepthEstimation)** (CVPR 2018 Spotlight)
 
 ### Unsupervised Image Translation
 - **[GLANet](https://github.com/ygjwd12345/GLANet)**
