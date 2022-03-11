@@ -43,7 +43,7 @@ _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, 
 - **[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN)** (CVPR 2019 Oral)
 - **[CrossMLP](https://github.com/Amazingren/CrossMLP)** (BMVC 2021 Oral)
 - **[EdgeGAN](https://github.com/Ha0Tang/EdgeGAN)**
-- **[PanoGAN](https://github.com/sswuai/PanoGAN)**
+- **[PanoGAN](https://github.com/sswuai/PanoGAN)** (TMM 2022)
 
 ### Unsupervised Image Translation
 - **[GLANet](https://github.com/ygjwd12345/GLANet)**
