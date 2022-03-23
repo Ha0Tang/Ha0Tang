@@ -17,6 +17,7 @@ _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, 
 
 ### Text-to-Image Synthesis
 - **[DF-GAN](https://github.com/tobran/DF-GAN)** (CVPR 2022)
+- **[PPE](https://github.com/zipengxuc/PPE)** (CVPR 2022)
 
 ### 3D Objection Generation
 - **[CGT](https://github.com/mikecheninoulu/CGT)** (AAAI 2022)
