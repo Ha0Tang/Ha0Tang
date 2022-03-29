@@ -16,7 +16,7 @@ _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, 
 - **[MHFormer](https://github.com/Vegetebird/MHFormer)** (CVPR 2022)
 
 ### Text-to-Image Synthesis
-- **[DF-GAN](https://github.com/tobran/DF-GAN)** (CVPR 2022)
+- **[DF-GAN](https://github.com/tobran/DF-GAN)** (CVPR 2022 Oral)
 - **[PPE](https://github.com/zipengxuc/PPE)** (CVPR 2022)
 
 ### 3D Objection Generation
