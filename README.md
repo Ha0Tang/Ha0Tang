@@ -35,7 +35,7 @@ _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, 
 - **[XingGAN](https://github.com/Ha0Tang/XingGAN)** (ECCV 2020)
 - **[BiGraphGAN](https://github.com/Ha0Tang/BiGraphGAN)** (BMVC 2020 Oral)
 - **[C2GAN](https://github.com/Ha0Tang/C2GAN)** (ACM MM 2019 Oral)
-- **[GestureGAN](https://github.com/Ha0Tang/GestureGAN)** (ACM MM 2018 Best Paper Candidate)
+- **[GestureGAN](https://github.com/Ha0Tang/GestureGAN)** (ACM MM 2018 Oral & Best Paper Candidate)
 
 ### Scene Image Generation
 - **[LGGAN](https://github.com/Ha0Tang/LGGAN)** (CVPR 2020)
