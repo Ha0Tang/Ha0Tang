@@ -1,6 +1,6 @@
 - 👯 We are looking self-motivated researcher to join our [Group](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DengPingFan&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha0Tang&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ha0Tang)
 
