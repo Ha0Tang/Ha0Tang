@@ -1,4 +1,4 @@
-- 👯 We are looking self-motivated researcher to join our [Group](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en).
+- 👯 We are looking self-motivated researcher to join/visit our [Group](https://ha0tang.github.io/).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha0Tang&show_icons=true&theme=radical)  
 
