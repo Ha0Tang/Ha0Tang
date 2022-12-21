@@ -61,7 +61,7 @@ _**I am currently a postdoctoral researcher at Computer Vision Lab, ETH Zurich, 
 - **[DDLCN](https://github.com/Ha0Tang/DDLCN)** (WACV 2019 Oral)
 
 ### Virtual Try-On
-- **[XingVTON](https://github.com/Ha0Tang/XingVTON)**
+- **[HCANet](https://github.com/Ha0Tang/HCANet)**
 - **[CIT](https://github.com/Amazingren/CIT)**
 
 ### Hand Gesture Recognition
